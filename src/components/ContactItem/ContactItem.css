@@ -1,0 +1,16 @@
+.contact-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.contact-item_button {
+    cursor: pointer;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+.contact-item_button:active {
+    color: #0a0202de;
+    background-color: #dd2b2b;
+}

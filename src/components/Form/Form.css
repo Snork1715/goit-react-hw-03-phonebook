@@ -1,0 +1,16 @@
+.contact-form {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.form_add-button {
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.form_add-button:active {
+    color: #000000;
+    background-color: #13e748;
+    text-decoration: underline;
+}

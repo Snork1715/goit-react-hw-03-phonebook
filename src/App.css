@@ -1,0 +1,21 @@
+.phonebook-warper {
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.phonebook-form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.phonebook-contacts {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
